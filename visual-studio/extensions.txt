@@ -1,0 +1,18 @@
+# Codes of all of extensions that i use in visual studio 2022
+
+AlignAssignments2022.41858b2d-ff0b-4a43-80b0-f1b2d6084935
+CopyAsHtml2022.42374550-426a-400e-96f9-237682e8dea6
+custom_theme_vs2022.f2be6083-da8f-4d37-81ba-448ed4315ced
+DoubleClickMaximize2022.050825c2-33a4-4b7d-b3af-bd46bd99a265
+FixMixedTabs2022.9f1d3050-b986-4b10-ae36-97c6efc5e968
+JetbrainsRiderTheme.da22ce4d-d42f-4674-bc7f-f909be66c776
+Marvel.27f38572-3568-4327-9ba0-afcb574040db
+MatchMargin2022.d85a25b5-f7b3-46a9-997e-a2d669dc2c93
+MiddleClickScroll2022.263a3239-a004-40e6-b790-4fd371832c85
+MinimalVS.79ca8ce4-b5c7-478a-af47-1c62eac702c5
+PeekHelp2022.51f43c96-8220-43bf-a922-390a361e7640
+PPTOptionsPage2022.666715a6-3ac4-4bb7-b538-4d7625f99666
+ProductivityPowerPack2022.0d5b9d71-e118-46de-a20c-555176e53900
+SolutionErrorVisualizer2022.a392f96b-6b33-4b53-b4bb-3376a05f986c
+SyntacticLineCompression2022.4452fb8f-b348-49eb-9499-76669d3f9c75
+TimeStampMargin2022.255e8b14-4a53-4eb7-89a7-7ab741c1f612
