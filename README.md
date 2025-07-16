@@ -5,12 +5,12 @@ This will encompass all the tools I use daily, such as, GlazeWM config file, vis
 
 ---
 
-Computer settings:
-🧠 AMD Ryzen 5 5600
-🔥 RAM	16GB DDR4 3200MHz
-🎮 GPU	RX 580 3060 8GB
-🖥️ LG Ultragear 27" 180hz
+#### Computer settings:
+- 🧠 AMD Ryzen 5 5600
+- 🔥 RAM	16GB DDR4 3200MHz
+- 🎮 GPU	RX 580 3060 8GB
+- 🖥️ LG Ultragear 27" 180hz
 
-Windows 11:
-🧱 GlazeWM: tiling window manager
-🧠 PowerToys: For hotkeys and power run
+#### Windows 11:
+- 🧱 GlazeWM: tiling window manager
+- 🧠 PowerToys: For hotkeys and power run
