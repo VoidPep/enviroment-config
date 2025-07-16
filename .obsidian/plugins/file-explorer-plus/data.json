@@ -1,0 +1,103 @@
+{
+  "hideStrictPathFilters": true,
+  "pinFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "ATAK",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Notas diárias",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Novas notas",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Pessoal/Estudos",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "DIRECTORIES",
+        "pattern": "Pessoal",
+        "patternType": "STRICT"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "Dashboard.md",
+        "patternType": "STRICT"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  },
+  "hideFilters": {
+    "active": true,
+    "tags": [
+      {
+        "name": "",
+        "active": true,
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ],
+    "paths": [
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES_AND_DIRECTORIES",
+        "pattern": "",
+        "patternType": "WILDCARD"
+      }
+    ],
+    "frontMatter": [
+      {
+        "name": "",
+        "active": true,
+        "path": "",
+        "pattern": "",
+        "patternType": "STRICT"
+      }
+    ]
+  }
+}

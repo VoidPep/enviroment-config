@@ -1,0 +1,44 @@
+{
+  "cascadeColors": true,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "uPiB6Dm48LQTJO1isPC8g",
+      "name": "Red",
+      "value": "#ff7575"
+    },
+    {
+      "id": "jFl_RjjjWGozFAL786NcL",
+      "name": "Blue",
+      "value": "#858cc1"
+    },
+    {
+      "id": "8xmwbLyQLx0AY1WwbpGP3",
+      "name": "Green",
+      "value": "#59e87d"
+    },
+    {
+      "id": "zwpPLGRQDTL32aFVmyCnW",
+      "name": "Yellow",
+      "value": "#ecf471"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Notas diárias",
+      "color": "8xmwbLyQLx0AY1WwbpGP3"
+    },
+    {
+      "path": "Novas notas",
+      "color": "jFl_RjjjWGozFAL786NcL"
+    },
+    {
+      "path": "ATAK",
+      "color": "uPiB6Dm48LQTJO1isPC8g"
+    },
+    {
+      "path": "Pessoal",
+      "color": "zwpPLGRQDTL32aFVmyCnW"
+    }
+  ]
+}
